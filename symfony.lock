@@ -378,6 +378,9 @@
     "symfony/polyfill-php73": {
         "version": "v1.13.1"
     },
+    "symfony/polyfill-php74": {
+        "version": "v1.13.1"
+    },
     "symfony/process": {
         "version": "v5.0.2"
     },
